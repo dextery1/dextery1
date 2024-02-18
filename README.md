@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ajay Kumar N and I'm a Tech-Enthusiast, from Bengaluru, Karnataka - 63</h2>
+<h2 align="left">Hey myself, Ajay Kumar N, an emerging Tech-Enthusiast from Bangalore - 560063</h2>
 
 ###
 
